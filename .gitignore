@@ -1,0 +1,11 @@
+# Exclude entire local data directories
+data/
+
+# Anaconda and Python operational files
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+
+# MacOS internal indexing tags
+.DS_Store
